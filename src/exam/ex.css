@@ -1,0 +1,14 @@
+.button{
+    -fx-background-color: cornflowerblue;
+    -fx-text-fill: white;
+    -fx-font-size: large;
+}
+#b1{
+    -fx-background-color: red;
+}
+.label{
+    -fx-text-fill: black;
+    -fx-label-padding: 20px;
+    -fx-font-weight: bold;
+    -fx-font-size: 14pt;
+}
